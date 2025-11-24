@@ -1,6 +1,6 @@
 image:
   repository: bluefoxx/demo-app
-  tag: dev-v0.0.0
+  tag: dev-v0.0.9
 
 replicaCount: 1
 
